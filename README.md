@@ -1,85 +1,54 @@
+# 🏢 Gestão do Cadastro Único - Glorinha/RS 🌟
 
-# 🎤 Sharon den Adel Fan 🌟
+![Cadastro Único](https://img.shields.io/badge/Cadastro%20Único-%230099CC.svg?style=for-the-badge&logo=govbr&logoColor=white)
+![Responsivo](https://img.shields.io/badge/Sistema-Responsivo-239B56.svg?style=for-the-badge)
+![Inclusão Social](https://img.shields.io/badge/Inclusão-Social-F7DF1E.svg?style=for-the-badge)
 
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Responsive](https://img.shields.io/badge/Responsivo-Design-239B56.svg?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Em_Andamento-brightgreen?style=for-the-badge)
+> **Portal de informações e transparência** da nova gestão do **Cadastro Único** de Glorinha, com foco em inclusão, eficiência e compromisso com as famílias de baixa renda. Este projeto destaca as melhorias implementadas na gestão 2024/2025, além de recursos interativos para facilitar o acesso às informações pelos cidadãos e gestores públicos.
 
-> **Um site tributo para Sharon den Adel**, vocalista da banda de metal sinfônico **Within Temptation**. Este site destaca sua carreira, música e inclui uma galeria de imagens visualmente atraente com funcionalidade de tela cheia! 🎶🔥
+## 📌 Principais Ações da Gestão
 
-## 🖼️ Funcionalidades
+- **Visitas domiciliares regulares**: Garantia de atualização in loco da composição familiar e condições socioeconômicas.
+- **Criação de materiais educativos**: Desenvolvimento de cartazes e folders sobre direitos e canais de denúncia de irregularidades no Programa Bolsa Família.
+- **Mutirões de atualização cadastral**: Inclusão de famílias com cadastros desatualizados há mais de 24 meses.
+- **Abertura de novos canais de agendamento**: Atendimento via WhatsApp, telefone, presencial e encaixes indicados por equipes técnicas.
+- **Busca ativa**: Ação proativa para localizar e atender famílias em situação de vulnerabilidade.
 
-- **Design responsivo**: Funciona perfeitamente em todos os dispositivos (mobile, tablet, desktop) 📱💻
-- **Galeria interativa**: Clique nas imagens para vê-las em tela cheia com setas de navegação ⬅️➡️
-- **Layout moderno**: Inspirado em designs minimalistas e elegantes ✨
+## 🚀 Tecnologias e Capacitações
 
+- **Sistema CadÚnico V7**: Ferramenta oficial para gestão e cadastramento.
+- **Treinamento contínuo da equipe**: Capacitações técnicas com a Caixa Econômica Federal, DPM Educação, e cursos EAD para excelência operacional.
+- **Digitalização e agilidade**: Implementação de protocolos eletrônicos e utilização de ferramentas como Excel e 1Doc para gestão eficiente.
 
-## 🚀 Tecnologias Utilizadas
+## 🎯 Impacto Social
 
-- **HTML5**: Estrutura e marcação semântica
-- **CSS3**: Estilização e design responsivo com media queries
-- **JavaScript**: Galeria de imagens com funcionalidade de tela cheia
+- **Inclusão**: Ampliação do acesso aos programas sociais como Bolsa Família, Minha Casa Minha Vida, e Tarifa Social de Energia Elétrica.
+- **Eficiência**: Redução de filas e tempo de espera com processos otimizados.
+- **Transparência**: Informações claras e acessíveis à população, fortalecendo a confiança no serviço público.
 
-## 💻 Como Executar Localmente
+## 📊 Relatórios de Desempenho
 
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/SimonePenido/sharon-tribute-site.git
+Os relatórios detalham:
 
-2. Navegue até a pasta do projeto:
+1. **Aumento de atendimentos realizados mensalmente**.
+2. **Número de cadastros atualizados ou incluídos no sistema**.
+3. **Capacitações da equipe e uso eficiente de recursos públicos**.
 
-cd sharon-tribute-site
+## 💻 Sobre a Coordenação
 
+**Simone Penido**  
+Coordenadora do Cadastro Único em Glorinha/RS.  
+- **Formação**: Administração e Análise e Desenvolvimento de Sistemas.  
+- **Experiência**: Mais de 6 anos no setor público, com foco na gestão do Cadastro Único desde 2024.  
+- **Missão**: Promover a inclusão social e garantir os direitos das famílias de baixa renda por meio de uma gestão eficiente e humanizada.
 
-3. Abra o arquivo index.html no seu navegador:
+LinkedIn: [Simone Penido](https://www.linkedin.com/in/simone-penido/)  
 
-open index.html
+## 🌟 Como Contribuir
 
+Este projeto busca ser um modelo de boas práticas para outros municípios. Sugestões e colaborações são bem-vindas! Entre em contato para trocar ideias e compartilhar experiências.
 
+---
 
-## 🎯 Objetivo
-
-Este projeto é uma demonstração das minhas habilidades de desenvolvimento front-end, com foco em:
-
-Design Responsivo: Garantir uma excelente experiência de usuário em todos os dispositivos.
-
-Interfaces de Usuário Interativas: Implementar galerias de imagens em tela cheia com transições suaves.
-
-Código Limpo e Manutenível: Utilizando HTML, CSS e JavaScript modulares e bem organizados.
-
-
-## 📊 Habilidades Demonstradas
-
-Design UI/UX: Criar uma experiência de usuário envolvente e intuitiva.
-
-Manipulação do DOM com JavaScript: Lidar com eventos de clique para navegação da galeria e exibição em tela cheia.
-
-Media Queries: Criar um layout totalmente responsivo para diferentes tamanhos de tela.
-
-
-## 🌟 Demo ao Vivo
-
-Confira a demo ao vivo aqui 🚀
-### GitHubPages: (https://simonepenido.github.io/sharon_fan/)
-
-## 📝 Licença
-
-Este projeto é open source e está disponível sob a Licença MIT.
-
-## 👩‍💻 Sobre a Desenvolvedora
-
-Olá, eu sou a Simone Penido, uma desenvolvedora front-end apaixonada, em transição do setor administrativo para Tecnologia! Especializo-me em construir sites interativos e interfaces de usuário amigáveis. Meu trabalho combina estética de design com código eficiente para entregar projetos de alta qualidade, que são tanto funcionais quanto visualmente atraentes.
-
-LinkedIn: Simone Penido
-https://www.linkedin.com/in/simone-penido/
-
-
-Sinta-se à vontade para entrar em contato! 😊
-
-
-
-
-
-   
+****
+Sinta-se à vontade para explorar, contribuir e replicar as boas práticas implementadas! 😊
