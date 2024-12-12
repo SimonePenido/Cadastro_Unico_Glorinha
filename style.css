@@ -87,19 +87,27 @@ h1, h2, h4 {
 
 h2 {
     font-size: 1.5rem;
-    margin-bottom: 2em;
+    margin:1em;
 }
 
 h3 {
     font-size: 1.2rem;
-    margin-bottom: 1em;
+    margin: 1em;
 }
 
 p {
     text-align: justify;
     margin-top: 1em;
     font-size: 1rem;
+    margin: 1em;
 }
+
+li {
+    margin-top: 1em;
+    margin-bottom: 1em;
+    font-size: 1rem;
+}
+
 
 .social {
     width: 8em;
@@ -178,6 +186,10 @@ figcaption {
     text-decoration: none;
     width: 2rem;
 }
+
+
+
+
 
 /* Responsividade para telas médias (laptops) */
 @media (max-width: 1024px) {

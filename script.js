@@ -61,3 +61,6 @@ function changeImage(newIndex) {
 images.forEach((img, index) => {
     img.addEventListener('click', () => openImageInFullscreen(index));
 });
+
+
+
