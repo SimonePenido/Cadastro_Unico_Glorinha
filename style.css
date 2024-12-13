@@ -298,7 +298,6 @@ figcaption {
     min-width: 100%;
     box-sizing: border-box;
     padding: 20px;
-    padding-right: 25px;
     background: #f9f9f9;
     border: 1px solid #ddd;
     border-radius: 5px;
@@ -315,7 +314,7 @@ figcaption {
 .slide__quote {
     font-size: 1rem;
     line-height: 1.5;
-    padding: 3em;
+    padding: 2.5em;
 }
 
 .nav-buttons {
