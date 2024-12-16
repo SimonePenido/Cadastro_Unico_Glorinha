@@ -338,6 +338,45 @@ figcaption {
     border-radius: 50%;
 }
 
+/* Responsividade */
+@media (max-width: 768px) {
+    .slide__item {
+        padding: 15px;
+    }
+
+    .slide__heading {
+        font-size: 1.2em;
+    }
+
+    .slide__quote {
+        font-size: 0.9rem;
+        padding: 1.5em;
+    }
+
+    .nav-buttons button {
+        padding: 8px;
+    }
+}
+
+@media (max-width: 480px) {
+    .slide__item {
+        padding: 10px;
+    }
+
+    .slide__heading {
+        font-size: 1em;
+    }
+
+    .slide__quote {
+        font-size: 0.8rem;
+        padding: 1em;
+    }
+
+    .nav-buttons button {
+        padding: 6px;
+    }
+}
+
 .gallery {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
