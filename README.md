@@ -39,7 +39,7 @@ Os relatórios detalham:
 **Simone Penido**  
 Coordenadora do Cadastro Único em Glorinha/RS.  
 - **Formação**: Administração e Análise e Desenvolvimento de Sistemas.  
-- **Experiência**: Mais de 6 anos no setor público, com foco na gestão do Cadastro Único desde 2024.  
+- **Experiência**: Mais de 9 anos no setor público, com foco na gestão do Cadastro Único desde maio de 2024.  
 - **Missão**: Promover a inclusão social e garantir os direitos das famílias de baixa renda por meio de uma gestão eficiente e humanizada.
 
 LinkedIn: [Simone Penido](https://www.linkedin.com/in/simone-penido/)  
